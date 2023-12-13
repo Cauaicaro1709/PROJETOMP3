@@ -21,4 +21,12 @@ O principal objetivo deste projeto é aprimorar um MP3 player, originalmente des
 
 **Nota:** Certifique-se de seguir as instruções do vídeo, clonar apenas o diretório relevante do repositório e aproveitar a oportunidade para aprender e aprimorar suas habilidades de desenvolvimento web. 🚀
 
+## Professor 👨‍🏫:
+**César Olavo de Moura Filho**
+
+## Linguagens usadas 💻:
+- HTML 🌐
+- CSS 🎨
+- JavaScript 🔧
+
 
