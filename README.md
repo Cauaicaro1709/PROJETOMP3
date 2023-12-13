@@ -25,7 +25,7 @@ O principal objetivo deste projeto é aprimorar um MP3 player, originalmente des
 **César Olavo de Moura Filho**
 
  # Linguagens usadas 💻:
-- HTML 🌐
-- CSS 🎨
-- JavaScript 🔧
+**- HTML **🌐
+**- CSS **🎨
+**- JavaScript **🔧
 
