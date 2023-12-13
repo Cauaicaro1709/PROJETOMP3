@@ -1,5 +1,5 @@
 # PROJETOMP3
-![interface](a4z82-uj3wv.jpg)
+![interface](content://media/external/downloads/1000116329)
 - Este é um programa de MP3 simples desenvolvido em HTML, CSS e JS
 # Objetivo do Projeto MP3 Player 🎵
 
