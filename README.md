@@ -1,6 +1,5 @@
 # PROJETOMP3
 - Este é um programa de MP3 simples desenvolvido em HTML, CSS e JS
-- ```markdown
 # Objetivo do Projeto MP3 Player 🎵
 
 O principal objetivo deste projeto é aprimorar um MP3 player, originalmente desenvolvido no projeto Spotify. Aqui estão as metas específicas:
