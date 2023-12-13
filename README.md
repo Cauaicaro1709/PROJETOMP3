@@ -20,6 +20,5 @@ O principal objetivo deste projeto é aprimorar um MP3 player, originalmente des
   - Customizar o estilo do MP3 player de acordo com suas preferências. Isso pode envolver mudanças em fontes, backgrounds e outros elementos visuais para criar uma aparência única.
 
 **Nota:** Certifique-se de seguir as instruções do vídeo, clonar apenas o diretório relevante do repositório e aproveitar a oportunidade para aprender e aprimorar suas habilidades de desenvolvimento web. 🚀
-```
-- # Professor 👨‍🏫:
+
 
